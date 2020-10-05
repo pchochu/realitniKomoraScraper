@@ -15,5 +15,5 @@ scrapy crawl realitni_komora --nolog
 
 Nachadza sa v subore realitaci.json  
 Nejedna sa o JSON, ide o slovniky vypisane pod seba  
-Pre zmenu je potrebna pridat na koniec kazdeho riadku ,(ciarku)  
+Pre zmenu na JSON je potrebna pridat na koniec kazdeho riadku ,(ciarku)  
 a obalit cely obsah suboru do hranatych zatvoriek
